@@ -1,0 +1,2 @@
+tqwt_meanValue_dec_5
+tqwt_meanValue_dec_30

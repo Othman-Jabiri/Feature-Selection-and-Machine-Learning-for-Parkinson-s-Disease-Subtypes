@@ -1,0 +1,3 @@
+0
+tqwt_meanValue_dec_19
+tqwt_meanValue_dec_7
